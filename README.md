@@ -14,3 +14,8 @@ XYZ Bank faces fierce competition in the market and aims to expand its customer 
 
 The goal of this analysis is to build a classification model capable of accurately predicting whether a customer will subscribe to a term deposit. This will empower the bank to identify the most promising customers for their marketing campaigns, resulting in improved conversion rates and increased revenue.
 
+### Document Details
+
+- `Model Final.sav` : the final model that the writer saved in the file using pickle.
+- `capstoneProject3.ipyn` : the complete journey of building machine learning model.
+
